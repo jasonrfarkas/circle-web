@@ -1,0 +1,9 @@
+---
+project_name: circle
+project_repo_url: git@github.com:jasonrfarkas/circle-web.git
+project_repo_remote: origin
+domain_name: circle.com
+repo_version: master
+python3: False
+py_venv_version: 2.7
+pg_gis: False
